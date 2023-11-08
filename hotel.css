@@ -812,7 +812,7 @@ p {
   background-color: rgb(222, 39, 39);
 }
 /* responsive */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 760px) {
   .header-start {
     width: 100%;
     z-index: 10000;
